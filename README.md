@@ -98,9 +98,11 @@ You can go over the images in the follwing section were the results will be suma
 
 
 ## Summary: 
-Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
-I realized the 
+In the following image you can appreciate the evaluation of the model. I didn’t achieve the expected accuracy for this model as you can see (not 75% or higher).
 
 <img width="766" alt="Captura de Pantalla 2022-05-17 a la(s) 11 10 44" src="https://user-images.githubusercontent.com/84519822/168863016-60d30ae8-cbbb-4bbd-b5fb-643f139285c7.png">
+
+If we want to keep optimizing the model, we could try other adjustments, though in the experienced I gained in this model, I don't see the the point to add more layers. I would rather try adding more neurons to the layers and most interesting I would like to try de RandomForest model, that I think it could be possible to have a better accuracy and also less time consuming while compiling. 
+
 
