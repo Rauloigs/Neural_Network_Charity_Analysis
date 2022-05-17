@@ -101,3 +101,6 @@ You can go over the images in the follwing section were the results will be suma
 Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
 I realized the 
+
+<img width="766" alt="Captura de Pantalla 2022-05-17 a la(s) 11 10 44" src="https://user-images.githubusercontent.com/84519822/168863016-60d30ae8-cbbb-4bbd-b5fb-643f139285c7.png">
+
